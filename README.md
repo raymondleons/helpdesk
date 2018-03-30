@@ -1,2 +1,3 @@
-# helpdesk
-Aplikasi Helpdesk berbasis PHP
+# Aplikasi HELPDESK
+
+Dalam tahap pengembangan. 
